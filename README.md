@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raman Buchha</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer </h3>
 
 - 📫 How to reach me **buchab8@gmail.com**
 
